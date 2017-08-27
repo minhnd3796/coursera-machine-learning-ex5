@@ -52,8 +52,8 @@ error_val   = zeros(m, 1);
 %
 
 % ---------------------- Sample Solution ----------------------
-
-
+for i = 1:m
+    X(1:i, :)
 
 
 
